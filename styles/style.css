@@ -1,3 +1,9 @@
+body.index{
+    background-color: #f7c985;
+    width: 800px;
+    margin: auto;
+}
+
 #index-header,
 #index-list-header{
     text-align: center;
@@ -6,11 +12,13 @@
     font-weight: 600;
 }
 
+
 .main-header{
     text-align: center;
     background-color: #F1C27B;
     color: rgb(0, 102, 29);
     font-weight: 600;
+    
 }
 
 .image{
