@@ -12,6 +12,9 @@ body.index{
     font-weight: 600;
 }
 
+#index-header{
+    margin-top: 0px;
+}
 
 .main-header{
     text-align: center;
