@@ -1,7 +1,11 @@
 body.index{
     background-color: #f7c985;
     width: 800px;
-    margin: auto;
+    margin: 0 auto;
+}
+
+#index-header{
+    margin-top: 0px;
 }
 
 #index-header,
@@ -12,16 +16,12 @@ body.index{
     font-weight: 600;
 }
 
-#index-header{
-    margin-top: 0px;
-}
-
 .main-header{
     text-align: center;
     background-color: #F1C27B;
     color: rgb(0, 102, 29);
     font-weight: 600;
-    
+    margin-top: 0px;    
 }
 
 .image{
